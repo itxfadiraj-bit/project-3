@@ -1,0 +1,19 @@
+{
+  "data_origin": "synthetic controlled volume test",
+  "seed": 42,
+  "posts": 2000,
+  "comments": 12344,
+  "background_comments_per_post": "2 through 8",
+  "planted_comments_per_post": 200,
+  "planted_posts": 12,
+  "planted_posts_detected": 12,
+  "planted_posts_missed": 0,
+  "eligible_background_posts": 1833,
+  "background_posts_flagged": 19,
+  "background_flag_rate": 0.010365521003818877,
+  "notes": [
+    "Planted IDs are used only for evaluation.",
+    "This evaluates an obvious high-volume simulation.",
+    "Results do not establish detection accuracy on real social media."
+  ]
+}

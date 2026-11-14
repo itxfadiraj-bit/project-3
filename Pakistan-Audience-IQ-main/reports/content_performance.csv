@@ -1,0 +1,55 @@
+platform,content_type,age_band,posts,median_likes,median_comments,shares_available,median_shares,views_available,median_likes_per_1000_views
+Facebook,Eid campaign,0-7 days,13,1920.0,3.0,8,97.5,0,
+Facebook,Eid campaign,31+ days,39,2197.0,3.0,30,142.5,0,
+Facebook,Eid campaign,8-30 days,40,2306.5,3.0,31,114.0,0,
+Facebook,Influencer post,0-7 days,14,3319.0,3.0,8,92.5,0,
+Facebook,Influencer post,31+ days,60,2702.0,3.0,34,139.5,0,
+Facebook,Influencer post,8-30 days,55,2545.0,3.0,39,119.0,0,
+Facebook,Product photo,0-7 days,13,3250.0,3.0,11,185.0,0,
+Facebook,Product photo,31+ days,68,1992.0,3.0,44,156.0,0,
+Facebook,Product photo,8-30 days,49,1974.0,3.0,28,205.5,0,
+Facebook,Reel,0-7 days,19,2513.0,3.0,16,140.0,19,60.2
+Facebook,Reel,31+ days,58,2843.0,3.0,38,137.0,58,32.83
+Facebook,Reel,8-30 days,35,2714.0,3.0,21,103.0,35,33.65
+Facebook,Sale announcement,0-7 days,16,2917.5,3.0,12,144.0,0,
+Facebook,Sale announcement,31+ days,57,2777.0,3.0,44,141.5,0,
+Facebook,Sale announcement,8-30 days,34,1571.5,3.0,22,179.0,0,
+Facebook,Styling video,0-7 days,14,3583.5,3.0,8,179.5,14,54.57
+Facebook,Styling video,31+ days,58,2833.5,3.0,37,145.0,58,35.78
+Facebook,Styling video,8-30 days,43,2675.0,3.0,37,134.0,43,36.09
+Instagram,Eid campaign,0-7 days,7,1234.0,3.0,5,110.0,0,
+Instagram,Eid campaign,31+ days,55,2359.0,3.0,37,92.0,0,
+Instagram,Eid campaign,8-30 days,41,2658.0,3.0,31,140.0,0,
+Instagram,Influencer post,0-7 days,14,2187.5,3.0,10,187.5,0,
+Instagram,Influencer post,31+ days,58,2126.5,3.0,38,177.0,0,
+Instagram,Influencer post,8-30 days,41,2537.0,3.0,35,134.0,0,
+Instagram,Product photo,0-7 days,13,2909.0,3.0,6,211.0,0,
+Instagram,Product photo,31+ days,52,2485.5,3.0,34,142.0,0,
+Instagram,Product photo,8-30 days,39,2053.0,3.0,27,160.0,0,
+Instagram,Reel,0-7 days,16,2043.5,3.0,14,114.5,16,43.24
+Instagram,Reel,31+ days,52,2674.5,3.0,36,150.0,52,30.8
+Instagram,Reel,8-30 days,49,2218.0,3.0,31,119.0,49,30.71
+Instagram,Sale announcement,0-7 days,10,984.5,3.0,9,242.0,0,
+Instagram,Sale announcement,31+ days,51,2951.0,3.0,35,138.0,0,
+Instagram,Sale announcement,8-30 days,40,2956.5,3.0,23,63.0,0,
+Instagram,Styling video,0-7 days,10,1514.5,3.0,9,135.0,10,13.77
+Instagram,Styling video,31+ days,54,3289.5,3.0,37,189.0,54,52.0
+Instagram,Styling video,8-30 days,42,2687.0,3.0,28,138.5,42,34.44
+TikTok,Eid campaign,0-7 days,12,1734.0,3.0,7,117.0,0,
+TikTok,Eid campaign,31+ days,45,2704.0,3.0,28,127.5,0,
+TikTok,Eid campaign,8-30 days,42,2489.5,3.0,29,166.0,0,
+TikTok,Influencer post,0-7 days,10,2433.0,3.0,8,110.0,0,
+TikTok,Influencer post,31+ days,59,2272.0,3.0,39,182.0,0,
+TikTok,Influencer post,8-30 days,41,1843.0,3.0,29,148.0,0,
+TikTok,Product photo,0-7 days,15,2281.0,3.0,10,204.0,0,
+TikTok,Product photo,31+ days,57,2646.0,3.0,48,184.0,0,
+TikTok,Product photo,8-30 days,36,2493.5,3.0,28,144.0,0,
+TikTok,Reel,0-7 days,13,3249.0,3.0,7,129.0,13,51.3
+TikTok,Reel,31+ days,62,3000.5,3.0,41,133.0,62,36.38
+TikTok,Reel,8-30 days,56,2345.0,3.0,41,169.0,56,28.64
+TikTok,Sale announcement,0-7 days,12,2899.0,3.0,10,139.0,0,
+TikTok,Sale announcement,31+ days,61,2491.0,3.0,43,151.0,0,
+TikTok,Sale announcement,8-30 days,29,3006.0,3.0,21,174.0,0,
+TikTok,Styling video,0-7 days,15,2305.0,3.0,14,172.5,15,40.51
+TikTok,Styling video,31+ days,53,3014.0,3.0,34,192.5,53,38.84
+TikTok,Styling video,8-30 days,53,2746.0,3.0,42,124.0,53,38.78

@@ -1,0 +1,15 @@
+{
+  "data_origin": "synthetic",
+  "input_comments": 6000,
+  "blank_after_cleaning": 0,
+  "clustering_ready_comments": 6000,
+  "unique_clean_texts": 108,
+  "records_with_repeated_text": 6000,
+  "repeated_text_policy": "Retained and flagged",
+  "language_labels": "Provided by the synthetic generator",
+  "languages": {
+    "Roman Urdu": 2005,
+    "Urdu": 2000,
+    "English": 1995
+  }
+}

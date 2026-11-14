@@ -1,0 +1,15 @@
+{
+  "data_origin": "synthetic",
+  "comments_assigned": 6000,
+  "unique_texts_used_for_training": 108,
+  "selected_clusters": 10,
+  "selection": "Highest cosine silhouette among k=2 through min(10, unique texts - 1)",
+  "cosine_silhouette": 0.4018104886611258,
+  "seed": 42,
+  "review_notes": [
+    "Silhouette measures text separation, not marketing accuracy.",
+    "TF-IDF may separate languages rather than audience needs.",
+    "Review cluster terms, examples, and language composition before naming groups.",
+    "Synthetic template data does not establish real customer behaviour."
+  ]
+}

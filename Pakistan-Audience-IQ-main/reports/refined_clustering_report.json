@@ -1,0 +1,15 @@
+{
+  "data_origin": "synthetic",
+  "method": "Dictionary-assisted TF-IDF and KMeans",
+  "comments_assigned": 6000,
+  "unique_feature_texts": 27,
+  "selected_clusters": 9,
+  "cosine_silhouette": 0.3718618645212292,
+  "seed": 42,
+  "review_notes": [
+    "Vocabulary was designed for the demonstration category.",
+    "This vocabulary is not a general translation system.",
+    "Baseline and refined scores use different feature spaces.",
+    "Review examples and language composition to assess usefulness."
+  ]
+}

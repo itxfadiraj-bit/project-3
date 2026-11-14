@@ -1,0 +1,77 @@
+﻿post_id,brand,platform,campaign,content_type,product_category,likes,comments_count,shares,views,days_since_post,data_origin,source_url,age_band,likes_per_1000_views,peer_posts,likes_robust_score,review_eligible,unusual_likes,score_magnitude
+P01274,Demo Brand A,Instagram,12.12 Collection,Reel,Women's lawn suits,14,3,81.0,125584.0,43,synthetic,,31+ days,0.1114791693209326,52,-8.519452913317648,True,True,8.519452913317648
+P00402,Demo Brand B,Instagram,11.11 Collection,Styling video,Women's lawn suits,138,3,45.0,41854.0,46,synthetic,,31+ days,3.29717589716634,54,-7.15602017146521,True,True,7.15602017146521
+P00732,Demo Brand B,Instagram,12.12 Collection,Styling video,Women's lawn suits,151,3,183.0,121800.0,31,synthetic,,31+ days,1.2397372742200328,54,-6.9538295922909805,True,True,6.9538295922909805
+P01712,Demo Brand B,TikTok,Eid Collection,Sale announcement,Women's lawn suits,15,3,162.0,,37,synthetic,,31+ days,,61,-6.927306102473416,True,True,6.927306102473416
+P01297,Demo Brand B,TikTok,11.11 Collection,Styling video,Women's lawn suits,97,3,,96235.0,40,synthetic,,31+ days,1.007949290798566,53,-6.825509399720269,True,True,6.825509399720269
+P01895,Demo Brand B,Instagram,Eid Collection,Styling video,Women's lawn suits,168,3,269.0,1676.0,32,synthetic,,31+ days,100.23866348448688,54,-6.714072314767047,True,True,6.714072314767047
+P01891,Demo Brand B,Instagram,12.12 Collection,Sale announcement,Women's lawn suits,62,3,154.0,,9,synthetic,,8-30 days,,40,-6.634388047216826,True,True,6.634388047216826
+P00139,Demo Brand C,Instagram,Eid Collection,Styling video,Women's lawn suits,34,3,216.0,67204.0,23,synthetic,,8-30 days,0.5059222665317541,42,-6.52658187592665,True,True,6.52658187592665
+P00418,Demo Brand B,Instagram,11.11 Collection,Styling video,Women's lawn suits,185,3,118.0,116855.0,54,synthetic,,31+ days,1.5831586153780326,54,-6.4973147491825864,True,True,6.4973147491825864
+P00271,Demo Brand C,Facebook,12.12 Collection,Reel,Women's lawn suits,51,3,43.0,11450.0,20,synthetic,,8-30 days,4.454148471615721,35,-6.468478761758451,True,True,6.468478761758451
+P00917,Demo Brand A,Instagram,11.11 Collection,Sale announcement,Women's lawn suits,61,3,277.0,,37,synthetic,,31+ days,,51,-6.299527294199769,True,True,6.299527294199769
+P00281,Demo Brand C,Instagram,12.12 Collection,Sale announcement,Women's lawn suits,64,3,39.0,,33,synthetic,,31+ days,,51,-6.222472456120178,True,True,6.222472456120178
+P00299,Demo Brand C,Instagram,12.12 Collection,Reel,Women's lawn suits,64,3,161.0,129649.0,32,synthetic,,31+ days,0.4936405217163264,52,-6.10956534687468,True,True,6.10956534687468
+P00633,Demo Brand A,Instagram,11.11 Collection,Product photo,Women's lawn suits,19,3,75.0,,23,synthetic,,8-30 days,,39,-6.0788761941425955,True,True,6.0788761941425955
+P01234,Demo Brand B,Instagram,11.11 Collection,Product photo,Women's lawn suits,18,3,,,54,synthetic,,31+ days,,52,-5.97001286103451,True,True,5.97001286103451
+P01315,Demo Brand A,TikTok,11.11 Collection,Product photo,Women's lawn suits,17,3,257.0,,59,synthetic,,31+ days,,57,-5.920455219523303,True,True,5.920455219523303
+P00620,Demo Brand C,Facebook,11.11 Collection,Reel,Women's lawn suits,121,3,185.0,25898.0,48,synthetic,,31+ days,4.672175457564291,58,-5.9057647440327,True,True,5.9057647440327
+P00485,Demo Brand A,TikTok,11.11 Collection,Sale announcement,Women's lawn suits,156,3,244.0,,30,synthetic,,8-30 days,,29,-5.878997290864979,True,True,5.878997290864979
+P01680,Demo Brand A,Instagram,12.12 Collection,Eid campaign,Women's lawn suits,17,3,56.0,,31,synthetic,,31+ days,,55,-5.787926061255338,True,True,5.787926061255338
+P00270,Demo Brand B,Instagram,Eid Collection,Styling video,Women's lawn suits,262,3,200.0,104076.0,51,synthetic,,31+ days,2.5173911372458586,54,-5.7139238802572105,True,True,5.7139238802572105
+P00269,Demo Brand C,Facebook,Eid Collection,Sale announcement,Women's lawn suits,58,3,299.0,,3,synthetic,,0-7 days,,16,-5.664883314251198,True,True,5.664883314251198
+P01175,Demo Brand A,Instagram,Eid Collection,Styling video,Women's lawn suits,72,3,293.0,127773.0,20,synthetic,,8-30 days,0.5634993308445446,42,-5.420012439683495,True,True,5.420012439683495
+P00394,Demo Brand A,Facebook,12.12 Collection,Product photo,Women's lawn suits,17,3,168.0,,58,synthetic,,31+ days,,68,-5.380311460321711,True,True,5.380311460321711
+P01304,Demo Brand C,Instagram,Eid Collection,Styling video,Women's lawn suits,305,3,53.0,76875.0,38,synthetic,,31+ days,3.967479674796748,54,-5.3714666130130695,True,True,5.3714666130130695
+P01898,Demo Brand C,TikTok,Eid Collection,Product photo,Women's lawn suits,119,3,,,10,synthetic,,8-30 days,,36,-5.204012048616642,True,True,5.204012048616642
+P01039,Demo Brand C,Instagram,11.11 Collection,Sale announcement,Women's lawn suits,144,3,70.0,,15,synthetic,,8-30 days,,40,-5.197524681330335,True,True,5.197524681330335
+P00265,Demo Brand A,Facebook,12.12 Collection,Sale announcement,Women's lawn suits,82,3,124.0,,3,synthetic,,0-7 days,,16,-5.169255348858455,True,True,5.169255348858455
+P01947,Demo Brand B,Instagram,Eid Collection,Influencer post,Women's lawn suits,89,3,,,11,synthetic,,8-30 days,,41,-5.124263534711394,True,True,5.124263534711394
+P01499,Demo Brand A,TikTok,Eid Collection,Eid campaign,Women's lawn suits,143,3,261.0,,35,synthetic,,31+ days,,45,-5.099635530763206,True,True,5.099635530763206
+P00437,Demo Brand A,Instagram,Eid Collection,Influencer post,Women's lawn suits,94,3,102.0,,12,synthetic,,8-30 days,,41,-5.041296186187242,True,True,5.041296186187242
+P01138,Demo Brand C,Facebook,12.12 Collection,Reel,Women's lawn suits,196,3,71.0,75066.0,60,synthetic,,31+ days,2.6110356219859856,58,-5.007063193749903,True,True,5.007063193749903
+P00188,Demo Brand B,TikTok,11.11 Collection,Reel,Women's lawn suits,108,3,291.0,138987.0,27,synthetic,,8-30 days,0.7770510911092404,56,-4.994599119824879,True,True,4.994599119824879
+P01765,Demo Brand B,Instagram,12.12 Collection,Reel,Women's lawn suits,116,3,,54811.0,23,synthetic,,8-30 days,2.1163635036762694,49,-4.868119228182906,True,True,4.868119228182906
+P01928,Demo Brand C,Facebook,Eid Collection,Product photo,Women's lawn suits,24,3,148.0,,29,synthetic,,8-30 days,,49,-4.837688295076735,True,True,4.837688295076735
+P00668,Demo Brand C,Facebook,11.11 Collection,Reel,Women's lawn suits,217,3,,100745.0,41,synthetic,,31+ days,2.1539530497791453,58,-4.817092474897638,True,True,4.817092474897638
+P00876,Demo Brand C,TikTok,Eid Collection,Reel,Women's lawn suits,191,3,177.0,45416.0,31,synthetic,,31+ days,4.205566320239563,62,-4.8116362991861115,True,True,4.8116362991861115
+P01775,Demo Brand C,Facebook,12.12 Collection,Influencer post,Women's lawn suits,69,3,179.0,,45,synthetic,,31+ days,,60,-4.801913521957626,True,True,4.801913521957626
+P01982,Demo Brand C,TikTok,11.11 Collection,Reel,Women's lawn suits,194,3,129.0,118252.0,54,synthetic,,31+ days,1.6405642187869973,62,-4.784501994555897,True,True,4.784501994555897
+P01591,Demo Brand A,Instagram,11.11 Collection,Influencer post,Women's lawn suits,117,3,48.0,,26,synthetic,,8-30 days,,41,-4.708599918231611,True,True,4.708599918231611
+P00238,Demo Brand C,Facebook,11.11 Collection,Eid campaign,Women's lawn suits,43,3,176.0,,20,synthetic,,8-30 days,,40,-4.6818676649894515,True,True,4.6818676649894515
+P00065,Demo Brand C,Facebook,Eid Collection,Influencer post,Women's lawn suits,76,3,,,59,synthetic,,31+ days,,60,-4.67656348627196,True,True,4.67656348627196
+P00125,Demo Brand B,TikTok,12.12 Collection,Product photo,Women's lawn suits,165,3,104.0,,27,synthetic,,8-30 days,,36,-4.6474501505894406,True,True,4.6474501505894406
+P00319,Demo Brand A,Facebook,Eid Collection,Styling video,Women's lawn suits,83,3,79.0,64224.0,24,synthetic,,8-30 days,1.292351768809168,43,-4.612909232510024,True,True,4.612909232510024
+P00217,Demo Brand B,Instagram,12.12 Collection,Influencer post,Women's lawn suits,41,3,,,41,synthetic,,31+ days,,58,-4.555896849689441,True,True,4.555896849689441
+P00395,Demo Brand B,Facebook,12.12 Collection,Product photo,Women's lawn suits,37,3,274.0,,60,synthetic,,31+ days,,68,-4.525786511188245,True,True,4.525786511188245
+P00791,Demo Brand B,Instagram,12.12 Collection,Influencer post,Women's lawn suits,50,3,281.0,,44,synthetic,,31+ days,,58,-4.3304359605697975,True,True,4.3304359605697975
+P01602,Demo Brand B,Instagram,Eid Collection,Product photo,Women's lawn suits,76,3,124.0,,29,synthetic,,8-30 days,,39,-4.30963997249174,True,True,4.30963997249174
+P00908,Demo Brand C,Facebook,12.12 Collection,Styling video,Women's lawn suits,173,3,,45184.0,38,synthetic,,31+ days,3.82878895184136,58,-4.301143625733605,True,True,4.301143625733605
+P01679,Demo Brand C,TikTok,12.12 Collection,Product photo,Women's lawn suits,206,3,26.0,,8,synthetic,,8-30 days,,36,-4.268861663238203,True,True,4.268861663238203
+P00821,Demo Brand C,Facebook,11.11 Collection,Styling video,Women's lawn suits,109,3,,149766.0,24,synthetic,,8-30 days,0.727802037845706,43,-4.253521906917789,True,True,4.253521906917789
+P01780,Demo Brand B,TikTok,Eid Collection,Influencer post,Women's lawn suits,28,3,96.0,,18,synthetic,,8-30 days,,41,-4.246793157180111,True,True,4.246793157180111
+P01565,Demo Brand B,TikTok,11.11 Collection,Sale announcement,Women's lawn suits,117,3,181.0,,49,synthetic,,31+ days,,61,-4.18548150565858,True,True,4.18548150565858
+P00363,Demo Brand A,Facebook,Eid Collection,Sale announcement,Women's lawn suits,163,3,181.0,,5,synthetic,,0-7 days,,16,-4.1802945735984816,True,True,4.1802945735984816
+P01071,Demo Brand C,Facebook,Eid Collection,Reel,Women's lawn suits,308,3,266.0,67385.0,35,synthetic,,31+ days,4.570750166951102,58,-4.162835457908605,True,True,4.162835457908605
+P01459,Demo Brand B,TikTok,Eid Collection,Styling video,Women's lawn suits,349,3,294.0,129642.0,13,synthetic,,8-30 days,2.692028817821385,53,-4.1552605763090495,True,True,4.1552605763090495
+P00646,Demo Brand C,TikTok,11.11 Collection,Sale announcement,Women's lawn suits,377,3,47.0,,20,synthetic,,8-30 days,,29,-4.129410559120174,True,True,4.129410559120174
+P01010,Demo Brand A,TikTok,Eid Collection,Influencer post,Women's lawn suits,32,3,75.0,,22,synthetic,,8-30 days,,41,-4.114644050686917,True,True,4.114644050686917
+P01729,Demo Brand B,Instagram,12.12 Collection,Sale announcement,Women's lawn suits,249,3,235.0,,53,synthetic,,31+ days,,51,-4.0258120373192225,True,True,4.0258120373192225
+P01974,Demo Brand C,Facebook,Eid Collection,Styling video,Women's lawn suits,209,3,287.0,68003.0,32,synthetic,,31+ days,3.0733938208608444,58,-4.011272024196736,True,True,4.011272024196736
+P00693,Demo Brand C,TikTok,12.12 Collection,Product photo,Women's lawn suits,89,3,250.0,,56,synthetic,,31+ days,,57,-4.011225206591695,True,True,4.011225206591695
+P00713,Demo Brand C,Instagram,11.11 Collection,Reel,Women's lawn suits,251,3,54.0,12277.0,32,synthetic,,31+ days,20.44473405555103,52,-3.882588686610902,True,True,3.882588686610902
+P01695,Demo Brand A,Facebook,Eid Collection,Influencer post,Women's lawn suits,141,3,82.0,,60,synthetic,,31+ days,,60,-3.8716449136823305,True,True,3.8716449136823305
+P01398,Demo Brand A,Facebook,Eid Collection,Influencer post,Women's lawn suits,141,3,,,45,synthetic,,31+ days,,60,-3.8716449136823305,True,True,3.8716449136823305
+P01478,Demo Brand A,Instagram,12.12 Collection,Sale announcement,Women's lawn suits,284,3,85.0,,37,synthetic,,31+ days,,51,-3.8121454733515563,True,True,3.8121454733515563
+P01836,Demo Brand A,Facebook,11.11 Collection,Product photo,Women's lawn suits,75,3,258.0,,53,synthetic,,31+ days,,68,-3.7330936003460686,True,True,3.7330936003460686
+P00665,Demo Brand A,Instagram,11.11 Collection,Reel,Women's lawn suits,277,3,,109173.0,54,synthetic,,31+ days,2.5372573804878495,52,-3.7212125964546043,True,True,3.7212125964546043
+P00817,Demo Brand A,Instagram,Eid Collection,Sale announcement,Women's lawn suits,302,3,113.0,,57,synthetic,,31+ days,,51,-3.7122760655628744,True,True,3.7122760655628744
+P01070,Demo Brand C,Instagram,12.12 Collection,Styling video,Women's lawn suits,226,3,80.0,90402.0,14,synthetic,,8-30 days,2.499944691489126,42,-3.7122540887539044,True,True,3.7122540887539044
+P01829,Demo Brand C,TikTok,Eid Collection,Styling video,Women's lawn suits,471,3,201.0,56874.0,32,synthetic,,31+ days,8.281464289482013,53,-3.6939958425749664,True,True,3.6939958425749664
+P01436,Demo Brand C,TikTok,Eid Collection,Styling video,Women's lawn suits,483,3,237.0,118525.0,32,synthetic,,31+ days,4.07508964353512,53,-3.6439837834769535,True,True,3.6439837834769535
+P00584,Demo Brand A,TikTok,12.12 Collection,Reel,Women's lawn suits,249,3,,114504.0,15,synthetic,,8-30 days,2.174596520645567,56,-3.6436860214729383,True,True,3.6436860214729383
+P01276,Demo Brand C,Instagram,11.11 Collection,Styling video,Women's lawn suits,664,3,199.0,61140.0,44,synthetic,,31+ days,10.860320575727838,54,-3.61610692920693,True,True,3.61610692920693
+P00053,Demo Brand C,TikTok,Eid Collection,Sale announcement,Women's lawn suits,179,3,89.0,,31,synthetic,,31+ days,,61,-3.6060316525895693,True,True,3.6060316525895693
+P01940,Demo Brand B,Instagram,Eid Collection,Sale announcement,Women's lawn suits,366,3,,,11,synthetic,,8-30 days,,40,-3.5968609570924777,True,True,3.5968609570924777
+P01507,Demo Brand C,Facebook,Eid Collection,Styling video,Women's lawn suits,281,3,167.0,35206.0,54,synthetic,,31+ days,7.981594046469352,58,-3.5568556411890415,True,True,3.5568556411890415
+P00312,Demo Brand B,TikTok,Eid Collection,Influencer post,Women's lawn suits,84,3,3.0,,36,synthetic,,31+ days,,59,-3.5434458021669175,True,True,3.5434458021669175
